@@ -1,23 +1,21 @@
 # Model Serving
 
-## [What is model serving?](etc/what-is-model-serving.md)
+## [What is model serving?](etc/README.md)
 
 - The steps of model serving
 - The importance of model serving
+- Model serving patterns
+    - The value of model serving patterns
+    - ML serving patterns
+        - Serving philosophy patterns
+        - Patterns of serving approaches
 
 </br>
 
-## [Model serving patterns](etc/model-serving-patterns.md)
-- The value of model serving patterns
-- ML serving patterns
-    - Serving philosophy patterns
-    - Patterns of serving approaches
-
-</br>
-
-## [KServe v0.9](kserve/kserve-0.9.md)
+## [KServe v0.9](kserve/README.md)
 
 - Installation
+- Kserve sample
 
 </br>
 
