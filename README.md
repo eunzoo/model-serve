@@ -15,7 +15,10 @@
 
 </br>
 
-## KServe v0.9
+## [KServe v0.9](kserve/kserve-0.9.md)
+
+- Installation
+
 </br>
 
 ### [Reference](etc/reference.md)
