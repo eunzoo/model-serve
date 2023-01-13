@@ -16,4 +16,5 @@
 </br>
 
 - <https://github.com/mercari/ml-system-design-pattern>
+- <https://github.com/theofpa/kserve-tutorial>
 

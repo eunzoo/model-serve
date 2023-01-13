@@ -1,6 +1,9 @@
 # KServe sample
 
-### 1. mnist_tensorflow.yaml
+### 0. reference : https://github.com/theofpa/kserve-tutorial
+</br>
+
+### 1. mnist_test.yaml
 ```yaml
 apiVersion: "serving.kserve.io/v1beta1"
 kind: "InferenceService"
@@ -36,5 +39,5 @@ mnist-predictor-default   http://mnist-predictor-default.eunzoo.knative.dtmlops.
 ```
 curl http://mnist-predictor-default.eunzoo.knative.dtmlops.click/v1/models/mnist:predict \
 -H 'Content-Type: application/json' \
--d @mnist_sample_payload_v4.json
+-d @mnist.json
 ```

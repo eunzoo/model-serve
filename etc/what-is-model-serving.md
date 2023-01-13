@@ -25,11 +25,12 @@
     - Choice of tool
     - Versioning
     - Rollback
+</br>
 
 - Serving tools
     - BentoML (https://www.bentoml.com/)
     - MLflow (https://mlflow.org/)
-    - KServe (https://kserve.github.io/website/0.9/)
+    - <u>__KServe__ (https://kserve.github.io/website/0.9/)</u>
     - Seldon core (https://www.seldon.io/solutions/open-source-projects/core)
     - Cortex (https://www.cortex.dev/)
     - TensorFlow Serving (https://www.tensorflow.org/tfx/guide/serving)
